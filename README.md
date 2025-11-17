@@ -1,2 +1,2 @@
 # labs_6_sem
-This repository contains laboratory work in the field on the subject "Programming methods" - 6th semester
+This repository contains laboratory work for the course "Programming methods" - 6th semester
